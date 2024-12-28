@@ -79,13 +79,6 @@ These projects utilize modern, scalable technologies to provide a smooth user ex
 
 The **SGBIT College Projects** are developed to showcase proficiency in full-stack development, responsive design, secure authentication, and system integration. The projects are designed to simplify administrative tasks, improve academic workflows, and provide a more accessible and interactive platform for students and staff.
 
-## Contact
-
-For questions, feedback, or inquiries regarding this repository, feel free to reach out:
-
-- **Name**: Sangamesh Karadagi
-- **Email**: saish.v.karadagi@gmail.com
-
 ## Future Plans
 
 While the current version of the **SGBIT College Projects** provides comprehensive functionality, several exciting improvements and features are planned for the future. These include:
