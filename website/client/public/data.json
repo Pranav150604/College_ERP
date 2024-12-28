@@ -1,0 +1,240 @@
+{
+  "CarouselImages": [
+    {
+      "ImageLink": "/images/collegepic(1).jpg"
+    },
+    {
+      "ImageLink": "/images/collegepic(2).jpg"
+    },
+    {
+      "ImageLink": "/images/collegepic(9).png"
+    },
+    {
+      "ImageLink": "/images/collegepic(13).jpg"
+    },
+    {
+      "ImageLink": "/images/collegepic(8).jpg"
+    }
+  ],
+  "NoticeLineData": [
+    {
+      "Title": "Pre-Conference scheduled on 20 Jan, 2025",
+      "Link": "/"
+    },
+    {
+      "Title": "SGBIT (Team: Buzz 6) bagged the first rank in the AICTE SIH 2023",
+      "Link": "/"
+    },
+    {
+      "Title": "WE ARE HIRING!",
+      "Link": "/"
+    },
+    {
+      "Title": "Refund of Caution Deposit for 2023 passout students(Last date: 22/12/2023)",
+      "Link": "/"
+    }
+  ],
+  "DepartmentsData": [
+    {
+      "Title": "ECE",
+      "Keyword": "ece",
+      "Description": "4 yrs B. Tech programme in Electronics & Communication Engineering. HOD: Dr. Shankargoud Patil.",
+      "PageLink": "/academics/departments/ece",
+      "BannerPic": "/images/Department-of-Electronics-Communication-Engineering-Image.jpg",
+      "PageRouteData": {
+        "DepartmentName": "Department of Electronics & Communication Engineering",
+        "YearofEstablishment": "July 2008",
+        "HODname": "Dr. Shankargoud Patil.",
+        "HODContactMailId": "hod_ece@sgbit.edu.in",
+        "DepartmentStaticData": "/RichText/ECE.html"
+      }
+    },
+    {
+      "Title": "CSE",
+      "Keyword": "cse",
+      "Description": "4 yrs B.Tech programme in Computer Science & Engineering. HOD: Dr. B. S. Halakarnimath",
+      "PageLink": "/academics/departments/cse",
+      "BannerPic": "/images/collegepic(6).jpg",
+      "PageRouteData": {
+        "DepartmentName": "Department of Computer Science & Engineering",
+        "YearofEstablishment": "July 2008",
+        "HODname": "Dr. B. S. Halakarnimath",
+        "HODContactMailId": "hod_cse@sgbit.edu.in",
+        "DepartmentStaticData": "/RichText/CSE.html"
+      }
+    },
+    {
+      "Title": "CSBS",
+      "Keyword": "csbs",
+      "Description": "4 yrs B.Tech programme in Computer Science & Business Systems. HOD: Dr. Karuna C. Gull",
+      "PageLink": "/academics/departments/csbs",
+      "BannerPic": "/images/collegepic(2).jpg",
+      "PageRouteData": {
+        "DepartmentName": "Department of Computer Science & Business Systems",
+        "YearofEstablishment": "July 2022",
+        "HODname": "Dr. Karuna C. Gull.",
+        "HODContactMailId": "hod_csbs@sgbit.edu.in",
+        "DepartmentStaticData": "/RichText/CSBS.html"
+      }
+    },
+    {
+      "Title": "EE",
+      "Keyword": "ee",
+      "Description": "4 yrs. B. Tech. programme in Electrical Engineering. HOD: Dr. Supanna S. Shirguppe",
+      "PageLink": "/academics/departments/ee",
+      "BannerPic": "/images/collegepic(3).jpg",
+      "PageRouteData": {
+        "DepartmentName": "Department of Electrical Engineering",
+        "YearofEstablishment": "July 2008",
+        "HODname": "Dr. Supanna S. Shirguppe",
+        "HODContactMailId": "hod_ee@sgbit.edu.in",
+        "DepartmentStaticData": "/RichText/EE.html"
+      }
+    },
+    {
+      "Title": "AIDS",
+      "Keyword": "Aids",
+      "Description": "4 yrs B.Tech. programme in Artificial Intelligence and Data Science. HOD : Dr. Yasmeen Shaikh",
+      "PageLink": "/academics/departments/eee",
+      "BannerPic": "/images/collegepic(4).jpg",
+      "PageRouteData": {
+        "DepartmentName": "Department of Artificial Intelligence and Data Science",
+        "YearofEstablishment": "July 2021",
+        "HODname": "Dr. Yasmeen Shaikh",
+        "HODContactMailId": "hod_eee@sgbit.edu.in",
+        "DepartmentStaticData": "/RichText/Aids.html"
+      }
+    },
+    {
+      "Title": "ME",
+      "Keyword": "me",
+      "Description": "4 yrs B.Tech. programme in Mechanical Engineering. HOD: Dr. R. M. Galagali",
+      "PageLink": "/academics/departments/me",
+      "BannerPic": "/images/Department-of-Mechanical-Engineering-Image.jpg",
+      "PageRouteData": {
+        "DepartmentName": "Department of Mechanical Engineering",
+        "YearofEstablishment": "July 2008",
+        "HODname": " Dr. R. M. Galagali,",
+        "HODContactMailId": "hod_me@sgbit.edu.in",
+        "DepartmentStaticData": "/RichText/ME.html"
+      }
+    }
+  ],
+  "HighlightsData": [
+    {
+      "Title": "The Techfest at the SG Balekundri Institute of Technology",
+      "Description": "The Techfest at the SG Balekundri Institute of Technology is an annual event that showcases innovation and creativity in various fields of technology. It features a range of activities including workshops, competitions, exhibitions, and lectures from industry experts. Students have the opportunity to display their projects, engage in hands-on learning, and network with professionals. This event aims to inspire and cultivate a passion for technology among attendees, fostering an environment of learning and collaboration.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(1).jpg"
+    },
+    {
+      "Title": "Gamesmeet at the SG Balekundri Institute of Technology",
+      "Description": "Gamesmeet at the SG Balekundri Institute of Technology is an annual gathering focused on gaming and e-sports. It features competitive gaming tournaments, casual gaming sessions, and interactive workshops. Participants can compete in popular games, learn about game development, and connect with fellow gaming enthusiasts. The event aims to promote the gaming culture within the academy, encouraging both fun and educational experiences in the world of video games.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(2).jpg"
+    },
+    {
+      "Title": "The 'Women in Space Engineering' event at theSG Balekundri Institute of Technology",
+      "Description": "The 'Women in Space Engineering' event at the SG Balekundri Institute of Technology is a prestigious gathering that highlights the contributions of women in the field of space engineering. Esteemed IIT professors and renowned female scientists from ISRO come together to share their experiences, insights, and advancements in space technology. The event includes inspiring talks, panel discussions, and networking opportunities, aiming to encourage and empower female students to pursue careers in space engineering and related fields.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(3).jpg"
+    },
+    {
+      "Title": "The GDG September Meet at the SG Balekundri Institute of Technology",
+      "Description": "The GDG September Meet at the SG Balekundri Institute of Technology is a monthly gathering hosted by the Google Developer Group. It features tech talks, coding sessions, and networking opportunities for developers to share knowledge and collaborate on projects.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(4).jpg"
+    }
+  ],
+  "EventsData": [
+    {
+      "Title": "asd",
+      "Description": "This is Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(1).jpg"
+    },
+    {
+      "Title": "ddd",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(2).jpg"
+    },
+    {
+      "Title": "wee",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(3).jpg"
+    },
+    {
+      "Title": "xzc",
+      "Description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "PageLink": "/",
+      "BannerPic": "/images/collegepic(4).jpg"
+    }
+  ],
+  "CarrierAtAotData": [
+    {
+      "Title": "Flexible working hours",
+      "Description": "Retired Professors recruited from premier institutes/ senior professionals from R & D organizations/ corporates may be considered for flexible working hours, i.e. 45 to 60 working days in a semester, @ 3 to 4 days per week considering 15 teaching weeks in a semester. Partially online teaching options may also be considered."
+    },
+    {
+      "Title": "Higher scale of pay:",
+      "Description": "AOT provides competitive pay packages that exceed those for same positions in peer institutes. Assistant Professors with 6yrs of full time teaching/ research experience after M.Tech and registered for PhD, will be eligible for post of Assistant Professor [Senior Scale], compared to the 10yrs requirement in AICTE norms. Assistant Professors with 10yrs of full time teaching and research experience after M.Tech, already registered for PhD & with at least one publication in SCI indexed journals will be eligible for post of Assistant Professor [Selection Grade], which is highly flexible compared to AICTE norms."
+    },
+    {
+      "Title": "Career development opportunity",
+      "Description": "Ample scope provided to engage in innovation and research in a vibrant and collaborative environment. Conducive atmosphere to develop your potential to the fullest and performance-based incentives. Mentoring by experiences academicians/ industry experts for new faculty."
+    },
+    {
+      "Title": "360 degree support for research and publication:",
+      "Description": "For all teaching posts, in addition to salary, incentives will be paid for career development, publication, patent, work on Govt. & industry sponsored project, attending conferences, faculty development programs, etc. as per institute norms. Dedicated research labs on Industry 4.0 technologies in the pipeline."
+    },
+    {
+      "Title": "Recruitment advertisement December 2023",
+      "PostLocation": "Published in Anandabazar Patrika & Telegraph on 12.12.23",
+      "Link": "/files/Add_12_12_23.pdf"
+    },
+    {
+      "Title": "Recruitment advertisement 2023",
+      "PostLocation": "Published in Anandabazar Patrika & Telegraph on 12.12.23",
+      "Link": "https://aot.edu.in/wp-content/uploads/2023/12/Add_12_12_23.pdf"
+    },
+    {
+      "Title": "Recruitment advertisement 2023",
+      "PostLocation": "Published in Anandabazar Patrika & Telegraph on 12.12.23",
+      "Link": "https://aot.edu.in/wp-content/uploads/2023/12/Add_12_12_23.pdf"
+    }
+  ],
+  "contact": [
+    {
+      "Title": "Admission Office: ",
+      "Tel": " +91-98310-21706",
+      "Email": " admission@aot.edu.in"
+    },
+    {
+      "Title": "Director/ Principal Office:",
+      "Tel": "+91-9830196317",
+      "Email": " academy@aot.edu.in"
+    },
+    {
+      "Title": "Academic & Exam. Dept:",
+      "Tel": "+91-9073360791",
+      "Email": "oicexam@aot.edu.in"
+    },
+    {
+      "Title": "Admin Dept:",
+      "Tel": "+91-9830161441",
+      "Email": "admin@aot.edu.in"
+    },
+    {
+      "Title": "Account Section: ",
+      "Tel": " +91-9073360790",
+      "Email": " accounts@aot.edu.in"
+    },
+    {
+      "Title": "Training Dept.: ",
+      "Tel": " +91-9073360792",
+      "Email": " training@aot.edu.in"
+    }
+  ]
+}

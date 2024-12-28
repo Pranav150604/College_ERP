@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "file-saver": "^2.0.5",
+    "jspdf": "^2.5.2",
+    "jspdf-autotable": "^3.8.4",
+    "pdf-lib": "^1.17.1"
+  }
+}
